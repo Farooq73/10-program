@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<stdio.h>
+Int main()
+{
+Float celsius,Fahrenheit;
+Printf("\n enter temperture in celsius");
+Scanf("%f", & celsius);
+Fahrenheit=(1.8)*celsius+32;
+Printf("\n% celsius is %F fahrenheit\n",celsius,fahreheit);
+return0;
+getch();}
