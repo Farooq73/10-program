@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<stdio.h>
+Int main();
+{
+Int fact =1,num;
+Cout<<"Enter a number:";
+Cin>>number;
+For(int I=1;i<=num;i++)
+{
+Fact=fact
+}
+Cout<<" factorial of number is :<<fact<<end;
+Return 0;
+}
