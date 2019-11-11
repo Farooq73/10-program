@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+Int main()
+{
+Clrscr();
+Int a,b,c;
+Cout<<"enter the value of r";
+Cin>>r;
+a=(3.14*r*r);
+Cout<<"area of circle "<<a;
+b=(2*3.14*r);
+Cout<<"circumference of circle "<<b;
+getch();
+return0;
+}
