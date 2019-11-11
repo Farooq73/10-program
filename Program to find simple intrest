@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<canio.h>
+Int main()
+{
+Float P,R,T,S,I;
+Clrscr();
+Printf("enter principal amount P=");
+Scanf("%f", &P);
+Printf("enter time T=");
+Scanf("%f", &T);
+Printf("enter rate R=");
+Scanf("%f", &R);
+S.I.=(P.T.R.)/100;
+Printf("simple intrest=%f",S.i);
+return0;
+getch();
+}
+
