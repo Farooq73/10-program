@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+Void main()
+{
+Int s1,s2,s3,s4,s5 sum;
+Float per;
+Clrscr();
+Printf("enter marks of 5 subjects=");
+Scanf("%d%d%d%d%d%d%"&s1,&s2,&s3,&s4,&s5)
+Sum= s1+s2+s3+s4+s5;
+Printf("sum of 5 subjects is %d\n",sum);
+Per=(sum*100)/500;
+Printf("percentage is %f",per);
+getch();
+}
